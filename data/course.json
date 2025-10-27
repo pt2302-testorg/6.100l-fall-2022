@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "5c0454cf-72a0-46d9-66ca-fa2edb801005"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b3cb1c7c-0662-40b0-b109-4bcad6b5f705",
+    "website": "6100l-introduction-to-cs-and-programming-using-python"
+  },
+  "course_title": "Introduction to CS and Programming using Python",
+  "hide_download": false,
+  "site_short_id": "6.100l-fall-2022",
+  "mit_learn_topics": [],
+  "course_description": "This subject is aimed at students with little to no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, feel justifiably confident in their ability to write simple programs that allow them to accomplish useful goals. The class will use the Python 3 programming language.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.100L",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "6100l-introduction-to-cs-and-programming-using-python"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Problem Sets",
+    "Programming Assignments with Examples",
+    "Readings",
+    "Problem-solving Notes",
+    "Podcasts"
+  ],
+  "site_uid": "0d7cf6b1-07d3-4577-9858-19e9881653f8",
+  "site_url_path": "courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022"
+}
