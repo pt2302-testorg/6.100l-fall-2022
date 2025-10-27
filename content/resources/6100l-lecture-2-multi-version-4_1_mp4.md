@@ -17,9 +17,15 @@ title: 'Lecture 2: Strings, Input/Output, and Branching'
 uid: f8c96114-7906-4798-ba9c-bd60d471ae1c
 video_files:
   archive_url: ''
-  video_captions_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_captions.vtt
+  video_captions_file: null
+  video_captions_resource:
+    content: ''
+    website: 6100l-introduction-to-cs-and-programming-using-python
   video_thumbnail_file: https://img.youtube.com/vi/UdEX0E9lIQM/default.jpg
-  video_transcript_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_transcript.pdf
+  video_transcript_file: null
+  video_transcript_resource:
+    content: ''
+    website: 6100l-introduction-to-cs-and-programming-using-python
 video_metadata:
   video_speakers: ''
   video_tags: python programming, string variables, input/output, i/o, operators
